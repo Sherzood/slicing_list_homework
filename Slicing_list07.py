@@ -7,5 +7,5 @@ def main(list1,n):
     Returns:
         list: return answer.
     """
-    return list1[0:-1:n]
+    return list1[0::n]
   
