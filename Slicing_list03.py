@@ -7,4 +7,3 @@ def main(list1):
         list: return answer.
     """
     return list1[0:]+list1[-1::-1]
-print(main([1,2,3,4]))    
